@@ -13,11 +13,15 @@ phases:
     start: 2019-03-13
   - name: construction
     start: 2019-03-13
+  - name : expérimentation
+    start : 2020-02-01
+  - name : accélération
+    start : 2021-02-01
 link: https://aidantsconnect.beta.gouv.fr
 repository: https://github.com/betagouv/Aidants_Connect
 stats: true
 stats_url: https://aidantsconnect.beta.gouv.fr/stats/
-contact: aidantsconnect@beta.gouv.fr
+contact: contact@aidantsconnect.beta.gouv.fr
 ---
 
 ## Contexte
@@ -32,7 +36,7 @@ L’objectif est de permettre à un professionnel habilité préalablement de r�
 
 Ce dispositif permettra un suivi des actions réalisées sur le compte de la personne, à destination des usagers et des autorités administratives compétentes, et une protection du professionnel déclarant comme de la personne accompagnée en cas d’erreur. L’enjeu est d’empêcher par un tiers l’utilisation de l’identité numérique d’une personne en difficulté avec les outils numériques (comme cela se fait en pratique, avec inscription des mots de passe dans un carnet papier).
 
-## Scénario d'usage en cours de validation
+## Scénario d'usage
 
 Pour cette première itération, l'équipe se concentrera sur des aidants professionnels (agents publics, associations conventionnées) ayant au moins une rencontre en tête-à-tête avec l'usager.
 
@@ -40,7 +44,7 @@ Pour cette première itération, l'équipe se concentrera sur des aidants profes
 
 ![Parcours utilisateurs 2](/img/startups/aidantsconnect/parcoursaidantsconnect2.jpeg)
 
-Les hypothèses que l'équipe souhaite confronter au terrain sont:
+Les hypothèses que l'équipe a confronté au terrain sont :
 - l'usager est en capacité de se connecter avec FranceConnect lors de sa rencontre avec l'aidant
 - l'usager accepte de signer un mandat avec la structure d'aidants professionnels habilitée
 - il est possible de créer un fournisseur d'identité expérimental sur FranceConnect
@@ -53,7 +57,7 @@ Les hypothèses que l'équipe souhaite confronter au terrain sont:
 - **AVRIL 2019** : Lancement de la startup d'Etat
 - **MAI-JUILLET 2019** : Organisation de plusieurs ateliers utilisateurs qui ont réuni près de 150 aidants professionnels venus de 10 territoires
 - **SEPTEMBRE 2019** : Formalisation d'un premier prototype fonctionnel prenant en compte les retours des participants aux ateliers
-- **FEVRIER 2019** : Lancement de l'expérimentation du service en conditions réelles d'accompagnement au sein de 13 structures localisées dans 10 départements pour 6 mois. Les 13 structures expérimentatrices sont les suivantes :
+- **JANVIER-DECEMBRE 2020** : Lancement de l'expérimentation du service en conditions réelles d'accompagnement au sein de 20 structures. Les 20 structures expérimentatrices sont les suivantes :
  
     - L’Association des Centres Sociaux de Douai (Hauts-de-France) ;
     - La mairie de Préguillac (Charente-Maritime) ;
@@ -65,15 +69,23 @@ Les hypothèses que l'équipe souhaite confronter au terrain sont:
     - Le dispositif mobile « Fourgon Connecté » (Pyrénées-Atlantiques) ;
     - Le CCAS d’Anglet (Pyrénées-Atlantiques) ;
     - Le PIMMS de Blois (Centre-Val-de-Loire)-  structure labellisée France Services  ;
-    - L’Association des Centres Sociaux de Douai (Hauts-de-France) ;
     - La Maison de Services au Public « Faitout Connecté » (Communauté de communes Champagne-Picarde – Hauts-de-France) - structure labellisée France Services ;
-    - Un service d’action sociale du département d’Eure-et-Loir (Centre-Val-de-Loire).
+    - Un service d’action sociale du département d’Eure-et-Loir (Centre-Val-de-Loire) ; 
+    - L’association de médiation numérique Net Solidaire (Charente-Maritime) ;
+    - La structure France Services de Chalonnes-sur-Loire (Maine-et-Loire) ;
+    - La structure France Services de Vic-sur-Seille (Moselle) ;
+    - La structure France Services de Ligny-en-Barrois (Meuse) ;
+    - Le Centre Communal d'Action Sociale de Roanne (Loire)
+    - L'Association ASOFT (Drôme) ;
+    - Le Foyer des Jeunes Travailleurs de St-Amand-Montrond (Cher) ;
+    - L'entreprise Mon Assistant Numérique Cambrésis - membre du réseau "Mon Assistant Numérique".
 
-Un bilan de l'expérimentation sera produit à l'issue des 3 premiers mois.
+N'hésitez pas à consulter [le bilan de l'expérimentation](https://aidantsconnect.beta.gouv.fr/static/guides_aidants_connect/Aidants%20Connect%20_%20BilanExperimentation.pdf)
 
-- **FIN DU 1er SEMESTRE 2020** : Déploiement de la solution par vagues progressives au sein de nouveaux territoires si les retours de l’expérimentation le permettent.
+- **DEBUT 1er SEMESTRE 2021** : Déploiement national de la solution par vagues progressives.
 
 
 ## Pour aller plus loin
 
 N'hésitez pas à consulter [le wiki](https://github.com/betagouv/Aidants_Connect/wiki) et à contribuer sur [le forum](https://forum.societenumerique.gouv.fr/category/8/aidants-connect) !
+Pour rencontrer l'équipe Aidants Connect, [vous pouvez vous inscrire aux démo de l'outil](https://app.livestorm.co/incubateur-des-territoires/aidants-connect).
